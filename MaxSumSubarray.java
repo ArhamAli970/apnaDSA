@@ -1,7 +1,7 @@
-Given an integer array nums, find the subarraywith the largest sum, and return its sum.
+//Given an integer array nums, find the subarraywith the largest sum, and return its sum.
 
-Mainly her we use KADANE'S Algo.
 
+//Mainly her we use KADANE'S Algo.
 
 class Solution {
     public static  void main(String[] args[]) { 
